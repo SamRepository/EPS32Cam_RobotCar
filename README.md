@@ -8,6 +8,7 @@ A complete project for an obstacle detection system using an ESP32-CAM Robot-Car
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [System Architecture](#system-architecture)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -32,6 +33,40 @@ This repository contains the complete project for an obstacle detection system u
 - Remote control via web application
 - Obstacle detection and avoidance
 - Data logging and reporting
+
+## System Architecture
+
+Below are important figures illustrating the system architecture and the actual robot car.
+
+### System Architecture Diagram
+
+![System Architecture]((https://drive.google.com/file/d/1zCICgAnMXSLTjR25sRpvoZqeX4ajJDIu/view?usp=sharing))
+
+This diagram shows the overall architecture of the ESP32-CAM Robot-Car system, including the connections between the ESP32-CAM module, motor driver, and other components.
+
+### Chassis Design
+
+![Chassis Design](link_to_chassis_design_image)
+
+The chassis design image showcases the structural layout of the robot car, detailing how the various components are mounted and secured.
+
+### Electronic Schematic
+
+![Electronic Schematic](link_to_electronic_schematic_image)
+
+This schematic provides a detailed view of the electronic connections within the robot car, including the ESP32-CAM, motor driver, and other essential components.
+
+### Use Case Diagram
+
+![Use Case Diagram](link_to_use_case_diagram_image)
+
+The use case diagram illustrates the interactions between the user and the robot car, highlighting key functionalities such as remote control, real-time monitoring, and data logging.
+
+### Real Robot-Car
+
+![Real Robot-Car](link_to_real_robot_car_image)
+
+This image shows the completed robot car with all components assembled, ready for testing and deployment.
 
 ## Getting Started
 
@@ -114,4 +149,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-This detailed README provides a comprehensive overview of the project, including setup instructions, features, and usage guidelines, ensuring that users can easily get started and contribute to the project.
+This detailed README provides a comprehensive overview of the project, including setup instructions, features, usage guidelines, and important figures to ensure users can easily get started and contribute to the project.
