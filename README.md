@@ -111,9 +111,10 @@ This image shows the completed robot car with all components assembled, ready fo
 
 ### Web Application
 
-1. The web application files are located in the `web_app` directory.
-2. Upload these files to a server or host them locally.
-3. Access the web application through the provided URL to control and monitor the robot car.
+1. The web application files are located in the same `ESP32Cam_RobotCar.ino` directory.
+2. Access the web application through the provided URL to control and monitor the robot car.
+
+![](Schemas/WebAppUI.png)
 
 ## Usage
 
@@ -126,6 +127,8 @@ This image shows the completed robot car with all components assembled, ready fo
 1. Test the robot car in a simulated environment with obstacles.
 2. Record the performance and make necessary adjustments.
 3. Validate the obstacle detection and avoidance mechanisms.
+
+![](Schemas/Testing_RobotCar.jpg)
 
 ## Limitations
 
