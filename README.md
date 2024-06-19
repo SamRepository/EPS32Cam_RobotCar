@@ -41,27 +41,32 @@ Below are important figures illustrating the system architecture and the actual 
 ### System Architecture Diagram
 
 This diagram shows the overall architecture of the ESP32-CAM Robot-Car system, including the connections between the ESP32-CAM module, motor driver, and other components.
+
 ![](Schemas/Architecture.png)
 
 ### Chassis Design
 
 The chassis design image showcases the structural layout of the robot car, detailing how the various components are mounted and secured.
+
 ![](Schemas/Chassis.png)
 
 ### Electronic Schematic
 
 This schematic provides a detailed view of the electronic connections within the robot car, including the ESP32-CAM, motor driver, and other essential components.
+
 ![](Schemas/Electronique_schema.png)
 
 ### Use Case Diagram
 
 The use case diagram illustrates the interactions between the user and the robot car, highlighting key functionalities such as remote control, real-time monitoring, and data logging.
+
 ![](Schemas/UseCases.png)
 
 ### Real Robot-Car
 
 This image shows the completed robot car with all components assembled, ready for testing and deployment.
-![](Schemas/Robot-car.png)
+
+![](Schemas/Robot-car.PNG)
 
 ## Getting Started
 
