@@ -40,7 +40,7 @@ Below are important figures illustrating the system architecture and the actual 
 
 ### System Architecture Diagram
 
-![System Architecture]((https://drive.google.com/file/d/1zCICgAnMXSLTjR25sRpvoZqeX4ajJDIu/view?usp=sharing))
+![](Schemas/Architecture.png)
 
 This diagram shows the overall architecture of the ESP32-CAM Robot-Car system, including the connections between the ESP32-CAM module, motor driver, and other components.
 
