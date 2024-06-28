@@ -48,7 +48,8 @@ This diagram shows the overall architecture of the ESP32-CAM Robot-Car system, i
 
 The chassis design image showcases the structural layout of the robot car, detailing how the various components are mounted and secured.
 
-![](Schemas/Chassis.png)
+![](Schemas/Chassis.PNG)
+
 
 ### Electronic Schematic
 
